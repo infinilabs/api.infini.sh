@@ -1,1 +1,1 @@
-## INFINI Labs
+## [INFINI Labs](https://infinilabs.com)

@@ -35,8 +35,16 @@
     ],
     "en-US": [
       {
-        "link": "https://www.infinilabs.com/",
-        "title": "INFINI Labs"
+        "link": "https://infinilabs.com/en/docs/latest/gateway/tutorial/request-logging/",
+        "title": "Analysis search requests of your Elasticsearch"
+      },
+       {
+        "link": "https://infinilabs.com/en/docs/latest/gateway/tutorial/index_diff/",
+        "title": "Diff Elasticsearch indices after migration"
+      },
+       {
+        "link": "https://infinilabs.com/en/docs/latest/gateway/tutorial/path_rewrite_by_javascript/",
+        "title": "Rewrite Elasticsearch queries by using JavaScript"
       }
     ]
   }

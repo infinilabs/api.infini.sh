@@ -10,7 +10,7 @@
         "build_number": "991"
      }
   },
-  "latest_news":[
+   "latest_news.zh-CN":[
      {
         link: "https://www.infinilabs.com/blog/release_20230224/",
         title: "INFINI 产品更新｜Loadrun 首发亮相"
@@ -31,5 +31,11 @@
         link: "https://www.infinilabs.com/docs/latest/console/troubleshooting/",
         title: "INFINI Console 常见问题及故障处理"
     }
+  ],
+  "latest_news.en-US":[
+     {
+        link: "https://www.infinilabs.com/",
+        title: "INFINI Labs"
+    },
   ]
 }

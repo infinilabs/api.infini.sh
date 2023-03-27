@@ -1,5 +1,35 @@
 {
   "schema": "1.0.0",
-  "current_version":{
-  }
+  "latest_version":{
+     "stable":{
+        "version": "0.8.1",
+        "build_number": "959"
+     },
+    "snapshot": {
+        "version": "0.8.2_SNAPSHOT",
+        "build_number": "991"
+     }
+  },
+  "latest_news":[
+     {
+        link: "https://www.infinilabs.com/blog/release_20230224/",
+        title: "INFINI 产品更新｜Loadrun 首发亮相"
+    },
+    {
+        link: "https://www.infinilabs.com/docs/latest/console/reference/alerting/message/",
+        title: "INFINI Console 的告警功能概览"
+    },
+    {
+        link: "https://www.infinilabs.com/docs/latest/console/tutorials/role_with_index_limit/",
+        title: "如何给 INFINI Console 账户分配 Elasticsearch 索引级别权限 "
+    },
+    {
+        link: "https://www.infinilabs.com/docs/latest/console/tutorials/data_migration/",
+        title: "如何使用 INFINI 迁移功能"
+    },
+    {
+        link: "https://www.infinilabs.com/docs/latest/console/troubleshooting/",
+        title: "INFINI Console 常见问题及故障处理"
+    }
+  ]
 }

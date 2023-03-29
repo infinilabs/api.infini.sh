@@ -29,7 +29,7 @@
         "title": "如何快速方便的跨集群、跨版本进行 Elasticsearch 索引数据迁移 🍻"
       },
       {
-        "link": "https://infinilabs.com/en/docs/latest/gateway/tutorial/request-logging/",
+        "link": "https://infinilabs.com/docs/latest/gateway/tutorial/request-logging/",
         "title": "使用极限网关来定位分析 Elasticsearch 慢查询日志 🔥"
       }
     ],

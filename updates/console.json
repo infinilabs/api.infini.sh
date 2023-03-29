@@ -40,7 +40,7 @@
       },
        {
         "link": "https://infinilabs.com/en/docs/latest/gateway/tutorial/index_diff/",
-        "title": "How to differentiate migrated indices across two different Elasticsearch clusters 🍻"
+        "title": "How to differentiate Elasticsearch indices across different clusters 🍻"
       },
        {
         "link": "https://infinilabs.com/en/docs/latest/gateway/tutorial/path_rewrite_by_javascript/",
@@ -48,10 +48,10 @@
       },
        {
         "link": "https://infinilabs.com/en/docs/latest/gateway/tutorial/path_rewrite_by_javascript/",
-        "title": "How an Insurance Group Improved the Indexing Speed by 200x Times 😱💥"
+        "title": "How to Improved the Indexing Speed by 200x Times 😱💥"
       },{
         "link": "https://infinilabs.com/en/docs/latest/console/screenshots/",
-        "title": "How to manage Elasticsearch or OpenSearch clusters all together, easy and powerful 😎"
+        "title": "How to manage the Elasticsearch or OpenSearch clusters all together 😎"
       }
     ]
   }

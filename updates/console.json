@@ -14,11 +14,11 @@
     "zh-CN": [
       {
         "link": "https://www.infinilabs.com/blog/release_20230224/",
-        "title": "INFINI 产品更新｜Loadrun 首发亮相 🎉🎉"
+        "title": "INFINI 产品更新｜Loadrun 测试套件首发亮相 🎉🎉"
       },
       {
         "link": "https://www.infinilabs.com/docs/latest/console/reference/alerting/message/",
-        "title": "INFINI Console 的告警功能概览 🛎"
+        "title": "化被动为主动，INFINI Console 提供的告警功能概览 🛎"
       },
       {
         "link": "https://www.infinilabs.com/docs/latest/console/tutorials/role_with_index_limit/",
@@ -26,11 +26,11 @@
       },
       {
         "link": "https://www.infinilabs.com/docs/latest/console/tutorials/data_migration/",
-        "title": "如何使用 INFINI 迁移功能 🍻"
+        "title": "如何快速方便的跨集群、跨版本进行 Elasticsearch 索引数据迁移 🍻"
       },
       {
-        "link": "https://www.infinilabs.com/docs/latest/console/troubleshooting/",
-        "title": "INFINI Console 常见问题及故障处理 🔥"
+        "link": "https://infinilabs.com/en/docs/latest/gateway/tutorial/request-logging/",
+        "title": "使用极限网关来定位分析 Elasticsearch 慢查询日志 🔥"
       }
     ],
     "en-US": [

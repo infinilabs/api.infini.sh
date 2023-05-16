@@ -2,12 +2,12 @@
   "schema": "1.0.0",
   "latest_version": {
     "stable": {
-      "version": "0.8.1",
-      "build_number": "959"
+      "version": "1.1.0",
+      "build_number": "1070"
     },
     "snapshot": {
-      "version": "0.8.2_SNAPSHOT",
-      "build_number": "991"
+      "version": "1.2.0_NIGHTLY",
+      "build_number": "1074"
     }
   },
   "latest_news": {

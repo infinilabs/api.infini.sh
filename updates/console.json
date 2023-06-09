@@ -13,16 +13,16 @@
   "latest_news": {
     "zh-CN": [
       {
-        "link": "https://www.infinilabs.com/blog/2023/release-20230515/",
-        "title": "INFINI Labs 产品更新 | 重磅推出 Easysearch v1.1 🎉🎉"
+        "link": "https://infinilabs.com/blog/2023/easysearch-storage-compression/",
+        "title": "使用 Easysearch，日志存储少一半 😱"
       },
       {
         "link": "https://www.infinilabs.com/docs/latest/console/reference/alerting/message/",
         "title": "化被动为主动，INFINI Console 提供的告警功能概览 🛎"
       },
       {
-        "link": "https://www.infinilabs.com/docs/latest/console/tutorials/role_with_index_limit/",
-        "title": "如何给 INFINI Console 账户分配 Elasticsearch 索引级别权限 💪"
+        "link": "https://infinilabs.com/blog/2023/data-desensitization/",
+        "title": "数据太敏感不让看，怎么办？🧐"
       },
       {
         "link": "https://www.infinilabs.com/docs/latest/console/tutorials/data_migration/",

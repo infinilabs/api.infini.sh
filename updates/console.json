@@ -2,55 +2,54 @@
   "schema": "1.0.0",
   "latest_version": {
     "stable": {
-      "version": "1.1.0",
-      "build_number": "1070"
+      "version": "1.27.1",
+      "build_number": "1954"
     },
     "snapshot": {
-      "version": "1.2.0_NIGHTLY",
-      "build_number": "1074"
+      "version": "1.28.0_NIGHTLY",
+      "build_number": "20241227"
     }
   },
   "latest_news": {
     "zh-CN": [
       {
-        "link": "https://infinilabs.com/blog/2023/easysearch-storage-compression/",
-        "title": "使用 Easysearch，日志存储少一半 😱"
+        "link": "https://infinilabs.cn/blog/2024/release-20241213/",
+        "title": "Console/Gateway/Agent 等产品开源啦 🎉"
       },
       {
-        "link": "https://www.infinilabs.com/docs/latest/console/reference/alerting/message/",
-        "title": "化被动为主动，INFINI Console 提供的告警功能概览 🛎"
+        "link": "https://infinilabs.cn/blog/2024/optimize-metrics-collecting/",
+        "title": "INFINI Console 指标采集优化架构分析 🫠"
       },
       {
-        "link": "https://infinilabs.com/blog/2023/data-desensitization/",
-        "title": "数据太敏感不让看，怎么办？🧐"
+        "link": "https://infinilabs.cn/blog/2024/migrate-from-elastic-to-easysearch/",
+        "title": "从 Elastic 迁移到 Easysearch 指引 🔥"
       },
       {
-        "link": "https://www.infinilabs.com/docs/latest/console/tutorials/data_migration/",
-        "title": "如何快速方便的跨集群、跨版本进行 Elasticsearch 索引数据迁移 🍻"
+        "link": "https://infinilabs.cn/blog/2024/elasticsearch-vs-easysearch-stress-testing/",
+        "title": "Elasticsearch VS Easysearch 性能测试 🍻"
       },
       {
-        "link": "https://infinilabs.com/docs/latest/gateway/tutorial/request-logging/",
-        "title": "使用极限网关来定位分析 Elasticsearch 慢查询日志 🔥"
+        "link": "https://infinilabs.cn/blog/2024/INFINILabs-3rd-anniversary-celebration/",
+        "title": "极限科技三周年庆典：追求极致，共创未来~ 🎊"
       }
     ],
     "en-US": [
       {
-        "link": "https://infinilabs.com/en/docs/latest/gateway/tutorial/request-logging/",
+        "link": "https://blog.infinilabs.com/posts/2024/synching-data-between-two-clusters-using-gateway/",
+        "title": "Synching data between two Elasticsearch clusters using a gateway 🔥"
+      },{
+        "link": "https://docs.infinilabs.com/gateway/main/docs/tutorial/request-logging/",
         "title": "Analyzing Elasticsearch slow queries becomes easier 😃"
       },
        {
-        "link": "https://infinilabs.com/en/docs/latest/gateway/tutorial/index_diff/",
+        "link": "https://docs.infinilabs.com/gateway/main/docs/tutorial/index_diff/",
         "title": "How to differentiate Elasticsearch indices across different clusters 🍻"
       },
        {
-        "link": "https://infinilabs.com/en/docs/latest/gateway/tutorial/path_rewrite_by_javascript/",
-        "title": "Rewrite your Elasticsearch queries by using JavaScript 🔥"
-      },
-       {
-        "link": "https://infinilabs.com/en/docs/latest/gateway/user-cases/stories/indexing_speedup_for_big_index_rebuild/",
+        "link": "https://docs.infinilabs.com/gateway/main/docs/user-cases/stories/indexing_speedup_for_big_index_rebuild/",
         "title": "How to Improve the Indexing Speed by 200x Times 😱💥"
       },{
-        "link": "https://infinilabs.com/en/docs/latest/console/screenshots/",
+        "link": "https://docs.infinilabs.com/console/main/docs/screenshot/",
         "title": "How to manage the Elasticsearch or OpenSearch clusters all together 😎"
       }
     ]

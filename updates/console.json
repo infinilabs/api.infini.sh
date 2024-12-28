@@ -37,10 +37,9 @@
       {
         "link": "https://blog.infinilabs.com/posts/2024/synching-data-between-two-clusters-using-gateway/",
         "title": "Synching data between two Elasticsearch clusters using a gateway 🔥"
-      },
-      {
-        "link": "https://yangfan-bigdata.medium.com/how-to-synchronize-data-between-two-elasticsearch-clusters-5880fd735a51",
-        "title": "How to synchronize data between two Elasticsearch clusters? 😃"
+      },{
+        "link": "https://docs.infinilabs.com/gateway/main/docs/tutorial/request-logging/",
+        "title": "Analyzing Elasticsearch slow queries becomes easier 😃"
       },
        {
         "link": "https://docs.infinilabs.com/gateway/main/docs/tutorial/index_diff/",

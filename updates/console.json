@@ -2,52 +2,53 @@
   "schema": "1.0.0",
   "latest_version": {
     "stable": {
-      "version": "1.27.1",
-      "build_number": "1954"
+      "version": "1.28.1",
+      "build_number": "1978"
     },
     "snapshot": {
-      "version": "1.28.0_NIGHTLY",
-      "build_number": "20241227"
+      "version": "1.28.2_NIGHTLY",
+      "build_number": "20250205"
     }
   },
   "latest_news": {
     "zh-CN": [
       {
-        "link": "https://infinilabs.cn/blog/2024/release-20241213/",
-        "title": "Console/Gateway/Agent 等产品开源啦 🎉"
+        "link": "https://infinilabs.cn/blog/2025/release-20250125/",
+        "title": "Console/Gateway/Easysearch 等产品更新发布 🎉"
       },
       {
-        "link": "https://infinilabs.cn/blog/2024/optimize-metrics-collecting/",
-        "title": "INFINI Console 指标采集优化架构分析 🫠"
+        "link": "https://infinilabs.cn/blog/2025/console-top-n-metrics/",
+        "title": "快速上手 INFINI Console 的 TopN 指标功能 🔥"
       },
       {
-        "link": "https://infinilabs.cn/blog/2024/migrate-from-elastic-to-easysearch/",
-        "title": "从 Elastic 迁移到 Easysearch 指引 🔥"
+        "link": "https://infinilabs.cn/blog/2025/easysearch-reset-admin-password/",
+        "title": "Easysearch 集群重置 admin 用户密码 🫠"
+      },
+      {
+        "link": "https://infinilabs.cn/blog/2025/introduction-easysearch-rollup/",
+        "title": "Easysearch Rollup 使用指南 🎊"
       },
       {
         "link": "https://infinilabs.cn/blog/2024/elasticsearch-vs-easysearch-stress-testing/",
         "title": "Elasticsearch VS Easysearch 性能测试 🍻"
-      },
-      {
-        "link": "https://infinilabs.cn/blog/2024/INFINILabs-3rd-anniversary-celebration/",
-        "title": "极限科技三周年庆典：追求极致，共创未来~ 🎊"
       }
     ],
     "en-US": [
       {
+        "link": "https://blog.infinilabs.com/posts/2025/01-11-produc-released-console-topn/",
+        "title": "INFINI Console v1.28 Released 🎉"
+      },
+      {
         "link": "https://blog.infinilabs.com/posts/2024/synching-data-between-two-clusters-using-gateway/",
         "title": "Synching data between two Elasticsearch clusters using a gateway 🔥"
-      },{
+      },
+      {
         "link": "https://docs.infinilabs.com/gateway/main/docs/tutorial/request-logging/",
         "title": "Analyzing Elasticsearch slow queries becomes easier 😃"
       },
        {
-        "link": "https://docs.infinilabs.com/gateway/main/docs/tutorial/index_diff/",
-        "title": "How to differentiate Elasticsearch indices across different clusters 🍻"
-      },
-       {
         "link": "https://docs.infinilabs.com/gateway/main/docs/user-cases/stories/indexing_speedup_for_big_index_rebuild/",
-        "title": "How to Improve the Indexing Speed by 200x Times 😱💥"
+        "title": "How to Improve the Indexing Speed by 200x Times 😱"
       },{
         "link": "https://docs.infinilabs.com/console/main/docs/screenshot/",
         "title": "How to manage the Elasticsearch or OpenSearch clusters all together 😎"

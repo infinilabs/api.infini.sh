@@ -2,31 +2,31 @@
   "schema": "1.0.0",
   "latest_version": {
     "stable": {
-      "version": "1.28.1",
-      "build_number": "1978"
+      "version": "1.29.0",
+      "build_number": "1992"
     },
     "snapshot": {
-      "version": "1.28.2_NIGHTLY",
-      "build_number": "20250205"
+      "version": "1.29.1_NIGHTLY",
+      "build_number": "20250303"
     }
   },
   "latest_news": {
     "zh-CN": [
       {
-        "link": "https://infinilabs.cn/blog/2025/release-20250125/",
-        "title": "Console/Gateway/Easysearch 等产品更新发布 🎉"
+        "link": "https://infinilabs.cn/blog/2025/release-20250228/",
+        "title": "INFINI Console V1.29.0 产品更新发布 🎉"
       },
       {
-        "link": "https://infinilabs.cn/blog/2025/console-top-n-metrics/",
-        "title": "快速上手 INFINI Console 的 TopN 指标功能 🔥"
+        "link": "https://infinilabs.cn/blog/2025/coco-AI-with-deepseek-to-create-enterprise-knowledge-management-tools/",
+        "title": "INFINI Labs 推出 Coco AI，携手 DeepSeek 打造下一代企业知识管理神器！🔥"
       },
       {
-        "link": "https://infinilabs.cn/blog/2025/easysearch-reset-admin-password/",
-        "title": "Easysearch 集群重置 admin 用户密码 🫠"
+        "link": "https://infinilabs.cn/blog/2025/easysearch-disk-watermark-tips/",
+        "title": "Easysearch 磁盘水位线注意事项 🫠"
       },
       {
-        "link": "https://infinilabs.cn/blog/2025/introduction-easysearch-rollup/",
-        "title": "Easysearch Rollup 使用指南 🎊"
+        "link": "https://infinilabs.cn/blog/2025/ik-field-level-dictionarys/",
+        "title": "Easysearch 新功能：IK 字段级别词典 🎊"
       },
       {
         "link": "https://infinilabs.cn/blog/2024/elasticsearch-vs-easysearch-stress-testing/",
@@ -35,8 +35,8 @@
     ],
     "en-US": [
       {
-        "link": "https://blog.infinilabs.com/posts/2025/01-11-produc-released-console-topn/",
-        "title": "INFINI Console v1.28 Released 🎉"
+        "link": "https://blog.infinilabs.com/posts/2025/02-14-product-released-coco-ai-v0.1/",
+        "title": "Create Your Own AI Assistant, Coco AI v0.1.0 Released 🎉"
       },
       {
         "link": "https://blog.infinilabs.com/posts/2024/synching-data-between-two-clusters-using-gateway/",

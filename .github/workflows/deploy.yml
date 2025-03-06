@@ -1,0 +1,29 @@
+name: Deploy to Prod
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Setup SSH Key
+        run: |
+          mkdir -p ~/.ssh
+          echo "${{ secrets.SSH_PRIVATE_KEY }}" > ~/.ssh/id_rsa
+          echo "${{ secrets.SSH_CONFIG }}" > ~/.ssh/config
+          chmod 600 ~/.ssh/{id_rsa,config}
+        shell: bash
+
+      - name: Deploy via SSH
+        run: |
+          ssh prod "
+            cd /opt/www/api.infini.sh &&
+            git pull origin gh-pages &&
+            git log -n 1 --pretty=format:"%h - %ad, %s" --date=short
+          "
+        shell: bash

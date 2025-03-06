@@ -24,6 +24,6 @@ jobs:
           ssh prod "
             cd /opt/www/api.infini.sh &&
             git pull origin gh-pages &&
-            git log -n 1 --pretty=format:"%h - %ad, %s" --date=short
+            git log -n 1 --format=%h,%ci,%s
           "
         shell: bash

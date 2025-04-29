@@ -2,45 +2,49 @@
   "schema": "1.0.0",
   "latest_version": {
     "stable": {
-      "version": "1.29.0",
-      "build_number": "1992"
+      "version": "1.29.3",
+      "build_number": "2018"
     },
     "snapshot": {
-      "version": "1.29.1_NIGHTLY",
-      "build_number": "20250303"
+      "version": "1.29.4_NIGHTLY",
+      "build_number": "20250429"
     }
   },
   "latest_news": {
     "zh-CN": [
       {
-        "link": "https://infinilabs.cn/blog/2025/release-20250228/",
-        "title": "INFINI Console V1.29.0 产品更新发布 🎉"
+        "link": "https://infinilabs.cn/blog/2025/release-20250428/",
+        "title": "产品更新 | Console v1.29.3，Coco AI 0.4 发布，完善小助手设置，添加 MCP 支持 🎉"
       },
       {
-        "link": "https://infinilabs.cn/blog/2025/coco-AI-with-deepseek-to-create-enterprise-knowledge-management-tools/",
-        "title": "INFINI Labs 推出 Coco AI，携手 DeepSeek 打造下一代企业知识管理神器！🔥"
+        "link": "https://infinilabs.cn/blog/2025/console-manage-es9/",
+        "title": "INFINI Console 支持纳管 Elasticsearch 9 🔥"
       },
       {
-        "link": "https://infinilabs.cn/blog/2025/easysearch-disk-watermark-tips/",
-        "title": "Easysearch 磁盘水位线注意事项 🫠"
+        "link": "https://infinilabs.cn/blog/2025/easysearch-ilm-practical-guide/",
+        "title": "Easysearch 索引生命周期管理实战 🫠"
       },
       {
-        "link": "https://infinilabs.cn/blog/2025/ik-field-level-dictionarys/",
-        "title": "Easysearch 新功能：IK 字段级别词典 🎊"
+        "link": "https://infinilabs.cn/blog/2025/Easysearch-Rollup-vs-OpenSearch-Rollup/",
+        "title": "Easysearch Rollup 相比 OpenSearch Rollup 的优势分析 🎊"
       },
       {
-        "link": "https://infinilabs.cn/blog/2024/elasticsearch-vs-easysearch-stress-testing/",
-        "title": "Elasticsearch VS Easysearch 性能测试 🍻"
+        "link": "https://infinilabs.cn/blog/2025/workshop-beijing-1/",
+        "title": "Workshop 北京站 | 搜索服务统一治理（多集群监控管理、流量管控、服务编排） 📢"
       }
     ],
     "en-US": [
       {
-        "link": "https://blog.infinilabs.com/posts/2025/02-14-product-released-coco-ai-v0.1/",
-        "title": "Create Your Own AI Assistant, Coco AI v0.1.0 Released 🎉"
+        "link": "https://docs.infinilabs.com/console/main/docs/release-notes/#1293-2025-04-27",
+        "title": "INFINI Console V1.29.3 product update released 🎉"
       },
       {
-        "link": "https://blog.infinilabs.com/posts/2024/synching-data-between-two-clusters-using-gateway/",
-        "title": "Synching data between two Elasticsearch clusters using a gateway 🔥"
+        "link": "https://docs.infinilabs.com/console/main/docs/tutorials/getting_started_with_the_TopN_metrics_feature/",
+        "title": "Getting Started with the TopN Metrics Feature in INFINI Console 🫠"
+      },
+      {
+        "link": "https://blog.infinilabs.com/posts/2025/04-28-product-released-coco-ai-v0.4/",
+        "title": "Coco AI v0.4 released, improved assistant settings, added MCP support 🎊"
       },
       {
         "link": "https://docs.infinilabs.com/gateway/main/docs/tutorial/request-logging/",
@@ -49,9 +53,6 @@
        {
         "link": "https://docs.infinilabs.com/gateway/main/docs/user-cases/stories/indexing_speedup_for_big_index_rebuild/",
         "title": "How to Improve the Indexing Speed by 200x Times 😱"
-      },{
-        "link": "https://docs.infinilabs.com/console/main/docs/screenshot/",
-        "title": "How to manage the Elasticsearch or OpenSearch clusters all together 😎"
       }
     ]
   }

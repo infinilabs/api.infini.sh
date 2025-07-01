@@ -2,31 +2,31 @@
   "schema": "1.0.0",
   "latest_version": {
     "stable": {
-      "version": "1.29.6",
-      "build_number": "2048"
+      "version": "1.29.7",
+      "build_number": "2068"
     },
     "snapshot": {
-      "version": "1.29.7_NIGHTLY",
-      "build_number": "20250629"
+      "version": "1.29.8_NIGHTLY",
+      "build_number": "20250701"
     }
   },
   "latest_news": {
     "zh-CN": [
       {
+        "link": "https://infinilabs.cn/blog/2025/release-20250630/",
+        "title": "产品更新 | Coco AI v0.6 发布 - 插件商店上线 🎉"
+      },
+      {
         "link": "https://infinilabs.cn/blog/2025/release-20250615/",
         "title": "产品更新 | INFINI Console 1.29.6 发布 – 优化监控图表异常毛刺等 🎉"
       },
       {
-        "link": "https://infinilabs.cn/blog/2025/release-20250611/",
-        "title": "产品更新 | Coco AI 0.5 发布 – 无缝集成 AI 搜索能力、支持插件扩展、支持快照版本更新等 🎉"
-      },
-      {
         "link": "https://infinilabs.cn/blog/2025/console-manage-es9/",
-        "title": "INFINI Console 支持纳管 Elasticsearch 9 🔥"
+        "title": "Console 支持纳管 Elasticsearch 9 🔥"
       },
       {
         "link": "https://infinilabs.cn/blog/2025/console-easysearch-with-docker-compose/",
-        "title": "使用 Docker Compose 简化 INFINI Console 与 Easysearch 环境搭建 🫠"
+        "title": "使用 Docker Compose 简化 Console 与 Easysearch 环境搭建 🫠"
       },
       {
         "link": "https://infinilabs.cn/blog/2025/Easysearch-Rollup-vs-OpenSearch-Rollup/",
@@ -35,12 +35,12 @@
     ],
     "en-US": [
       {
-        "link": "https://docs.infinilabs.com/console/main/docs/release-notes/#1296-2025-06-13",
-        "title": "INFINI Console V1.29.6 released 🎉"
+        "link": "https://blog.infinilabs.com/posts/2025/06-29-product-released-coco-ai-v0.6/",
+        "title": "Coco AI v0.6 Released – Extension Store is Now Live🎊"
       },
       {
-        "link": "https://blog.infinilabs.com/posts/2025/06-11-product-released-coco-ai-v0.5/",
-        "title": "Coco AI v0.5 Unlocks Local Plugins, Smarter App Search, AI Overview and Instant AI Command 🎊"
+        "link": "https://docs.infinilabs.com/console/main/docs/release-notes/#1296-2025-06-13",
+        "title": "INFINI Console V1.29.6 released 🎉"
       },
       {
         "link": "https://docs.infinilabs.com/console/main/docs/tutorials/getting_started_with_the_TopN_metrics_feature/",

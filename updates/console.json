@@ -2,27 +2,27 @@
   "schema": "1.0.0",
   "latest_version": {
     "stable": {
-      "version": "1.30.0",
-      "build_number": "2274"
+      "version": "1.30.1",
+      "build_number": "2309"
     },
     "snapshot": {
       "version": "1.31.0_NIGHTLY",
-      "build_number": "20251123"
+      "build_number": "20251221"
     }
   },
   "latest_news": {
     "zh-CN": [
       {
-        "link": "https://infinilabs.cn/blog/2025/release-20251121/",
-        "title": "产品更新 | Coco AI v0.9 与 Easysearch v2.0 全新功能上线，全面支持 GitLab 合并请求（MR）自动 AI Review 🎉"
+        "link": "https://infinilabs.cn/blog/2025/release-20251219/",
+        "title": "产品更新 | Coco AI v0.10 × Easysearch v2.0 联袂上线：UI 全面重构，体验焕然一新 🎉"
       },
       {
-        "link": "https://docs.infinilabs.com/console/main/zh/docs/release-notes/#1300-2025-11-19",
-        "title": "产品更新 | INFINI Console 1.30.0 发布 – 修复已知 Bug，增强了整体稳定性及体验优化 🎉"
+        "link": "https://infinilabs.cn/blog/2025/easy-es-2.1.0-easysearch-release/",
+        "title": "产品发布 | Easy-Es 2.1.0-easysearch 版本发布 🎉"
       },
       {
-        "link": "https://infinilabs.cn/blog/2025/console-easysearch-with-docker-compose-offline/",
-        "title": "使用 Docker Compose 轻松实现 INFINI Console 离线部署与持久化管理 🎊"
+        "link": "https://infinilabs.cn/blog/2025/coco-support-ai-review-of-gitlab-merge-requests/",
+        "title": "程序员爆哭！我们让 COCO AI 接管 GitLab 审查后，团队直接起飞：连 CTO 都说“这玩意儿比人靠谱多了” 🔥"
       },
       {
         "link": "https://infinilabs.cn/blog/2025/console-manage-es9/",
@@ -30,17 +30,17 @@
       },
       {
         "link": "https://infini.yuque.com/infini/products/em17dnves2s6yz31",
-        "title": "⚡ 闪电直播 - INFINI Demo Show，30分钟快速了解 INFINI Labs 最新产品动态与使用技巧 🫠"
+        "title": "⚡ 闪电直播 - INFINI Demo Show，30分钟快速了解极限科技最新产品动态与使用技巧 🫠"
       }
     ],
     "en-US": [
       {
-        "link": "https://blog.infinilabs.com/posts/2025/11-21-product-released-coco-ai-v0.9/",
-        "title": "Coco AI v0.9: Full support for automated AI review of GitLab merge requests (MR) 🎊"
+        "link": "https://blog.infinilabs.com/posts/2025/12-20-product-released-coco-ai-v0.10/",
+        "title": "Coco AI v0.10: Resizable Extension Windows, One-Click Open, and a Refreshed UI 🎊"
       },
       {
-        "link": "https://docs.infinilabs.com/console/main/docs/release-notes/#1300-2025-11-19",
-        "title": "INFINI Console V1.30.0 released - fixed known bugs and improved overall stability and performance🎉"
+        "link": "https://docs.infinilabs.com/console/main/docs/release-notes/#1301-2025-12-19",
+        "title": "INFINI Console V1.30.1 released - fixed known bugs and improved overall stability and performance🎉"
       },
       {
         "link": "https://docs.infinilabs.com/console/main/docs/tutorials/getting_started_with_the_TopN_metrics_feature/",

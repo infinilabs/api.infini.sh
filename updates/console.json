@@ -7,52 +7,52 @@
     },
     "snapshot": {
       "version": "1.31.0_NIGHTLY",
-      "build_number": "20260520"
+      "build_number": "20260721"
     }
   },
   "latest_news": {
     "zh-CN": [
       {
-        "link": "https://infinilabs.cn/blog/2026/release-20260316/",
-        "title": "产品更新 | Easysearch 2.1.0 新增高性能 Rules 规则引擎插件,数据探索 Discover 等 🎉"
+        "link": "https://infinilabs.cn/blog/2026/easysearch-2-3-0-release/",
+        "title": "产品更新 | Easysearch 2.3.0 管理体验升级，稳定性与兼容性全面增强 🎉"
       },
       {
-        "link": "https://infinilabs.cn/blog/2026/agent-1-31-0-release/",
-        "title": "INFINI Agent v1.31.0 发布 | 全新 Easysearch 向导：一站式集群拉起与精细化管理 🎉"
+        "link": "https://docs.infinilabs.com/agent/main/zh/docs/release-notes/#1311-2026-06-23",
+        "title": "产品更新 | Agent v1.31.1 增强可观测性与运维能力、提升 Easysearch 安装向导流程稳定性和安全性 🎉"
       },
       {
-        "link": "https://infinilabs.cn/blog/2026/elasticsearch-to-easysearch-2x-migration-guide/",
-        "title": "Elasticsearch 6/7/8 到 Easysearch 2.x 迁移指南 🔥"
+        "link": "https://infinilabs.cn/blog/2026/infinilabs-appeared-at-TDBC-2026/",
+        "title": "INFINI Labs 入选《中国数据库产业图谱（2026）》，Easysearch 打造国产搜索数据库替代标杆 🎉"
       },
       {
-        "link": "https://infinilabs.cn/blog/2026/easysearch-analysis-ik-multidict-performance-recovery-vs-elasticsearch/",
-        "title": "Easysearch analysis-ik 多词典性能优化：从性能回退到分词性能提升 25%~30% 🔥"
+        "link": "https://infinilabs.cn/blog/2026/console-install-at-xc-platform/",
+        "title": "信创环境下部署 INFINI Console：一站式搭建搜索基础设施统一管控平台 🔥"
       },
       {
-        "link": "https://infini.yuque.com/infini/products/em17dnves2s6yz31",
-        "title": "⚡ 闪电直播 - INFINI Demo Show，30分钟快速了解极限科技最新产品动态与使用技巧 🫠"
+        "link": "https://infinilabs.cn/blog/2026/easysearch-vector-search-1/",
+        "title": "INFINI Easysearch 向量搜索实战（一）🫠"
       }
     ],
     "en-US": [
       {
-        "link": "https://blog.infinilabs.com/posts/2025/12-20-product-released-coco-ai-v0.10/",
-        "title": "Coco AI v0.10: Resizable Extension Windows, One-Click Open, and a Refreshed UI 🎊"
+        "link": "https://blog.infinilabs.com/posts/2026/05-26-pizza-partial-updates/",
+        "title": "True Partial Updates: How Pizza Engine Achieves 870x Faster Document Mutations 🎊"
       },
       {
-        "link": "https://docs.infinilabs.com/console/main/docs/release-notes/#1301-2025-12-19",
-        "title": "INFINI Console V1.30.1 released - fixed known bugs and improved overall stability and performance🎉"
+        "link": "https://docs.infinilabs.com/console/main/docs/release-notes/",
+        "title": "INFINI Console V1.30.3 released - fixed known bugs and improved overall stability and performance 🎉"
       },
       {
-        "link": "https://docs.infinilabs.com/console/main/docs/tutorials/getting_started_with_the_TopN_metrics_feature/",
-        "title": "Getting Started with the TopN Metrics Feature in INFINI Console 🫠"
+        "link": "https://blog.infinilabs.com/posts/2026/05-23-pizza-analysis-multilingual-intelligence-at-scale/",
+        "title": "The Multilingual Analysis Stack We Built for Real-World Search 🫠"
       },
       {
-        "link": "https://docs.infinilabs.com/gateway/main/docs/tutorial/request-logging/",
-        "title": "Analyzing Elasticsearch slow queries becomes easier 😃"
+        "link": "https://blog.infinilabs.com/posts/2026/05-11-wasm-series-2-feature-gated-aggregations/",
+        "title": "Shrinking a Search Engine to Fit in Your Browser — Part 2: Feature-Gated Aggregations 😃"
       },
        {
-        "link": "https://docs.infinilabs.com/gateway/main/docs/user-cases/stories/indexing_speedup_for_big_index_rebuild/",
-        "title": "How to Improve the Indexing Speed by 200x Times 😱"
+        "link": "https://blog.infinilabs.com/posts/2026/05-10-wasm-series-1-zero-overhead-bindings/",
+        "title": "Shrinking a Search Engine to Fit in Your Browser — Part 1: Zero-Overhead WASM Bindings 🫠"
       }
     ]
   }

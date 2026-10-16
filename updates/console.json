@@ -13,12 +13,12 @@
   "latest_news": {
     "zh-CN": [
       {
-        "link": "https://infinilabs.cn/blog/2026/easysearch-2-3-0-release/",
-        "title": "产品更新 | Easysearch 2.3.0 管理体验升级，稳定性与兼容性全面增强 🎉"
+        "link": "https://infinilabs.cn/blog/2026/easysearch-2-5-0-release/",
+        "title": "产品更新 | Easysearch 2.5.0 发布：升级 JDK 25，写入吞吐提升约 20% 🎉"
       },
       {
-        "link": "https://docs.infinilabs.com/agent/main/zh/docs/release-notes/#1311-2026-06-23",
-        "title": "产品更新 | Agent v1.31.1 增强可观测性与运维能力、提升 Easysearch 安装向导流程稳定性和安全性 🎉"
+        "link": "https://docs.infinilabs.com/agent/main/zh/docs/release-notes/#1320-2026-08-22",
+        "title": "产品更新 | Agent v1.32.0 强化安全管理，优化集群巡检与运维体验 🎉"
       },
       {
         "link": "https://infinilabs.cn/blog/2026/infinilabs-appeared-at-TDBC-2026/",
@@ -29,8 +29,8 @@
         "title": "信创环境下部署 INFINI Console：一站式搭建搜索基础设施统一管控平台 🔥"
       },
       {
-        "link": "https://infinilabs.cn/blog/2026/easysearch-vector-search-1/",
-        "title": "INFINI Easysearch 向量搜索实战（一）🫠"
+        "link": "https://infinilabs.cn/blog/2026/easysearch-native-gm-crypto/",
+        "title": "Easysearch 原生集成国密算法：打造全链路自主可控搜索底座 🫠"
       }
     ],
     "en-US": [
